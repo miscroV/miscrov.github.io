@@ -1,6 +1,6 @@
 ---
 icon: fas fa-sticky-note
-order: 5
+order: 4
 ---
 ## Resources
 > My cheat sheet for learning resources:
