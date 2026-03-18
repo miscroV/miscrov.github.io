@@ -1,6 +1,6 @@
 ---
 title: first post
-date: 2026-18-03 09:07:00 -0600
+date: 2026-18-03 09:07:00 - 0600
 categories: [posts]
 tags: [post]
 ---
