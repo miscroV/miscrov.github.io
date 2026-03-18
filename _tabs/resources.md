@@ -7,10 +7,10 @@ order: 5
 {: .prompt-tip }
 
 ## Cyber Learning
-- [![pwn.college](https://img.shields.io/badge/-pwn.college-yellow)](https://pwn.college/)
-- [![pctf101](https://img.shields.io/badge/-ctf101-blue)]([https://pwn.college/](https://ctf101.org/))
-- [![Open Security Training](https://img.shields.io/badge/-Open_Security_Training-green)](https://ost2.fyi)
-- [![Reverse Engineering](https://img.shields.io/badge/-Reverse_Engineering-blue&logo=GitHub$logoColor=white)](https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses)
+- [pwn.college](https://pwn.college/)
+- [ctf101]([https://pwn.college/](https://ctf101.org/))
+- [Open Security Training](https://ost2.fyi)
+- [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses)
 
 ## Code learning
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">
