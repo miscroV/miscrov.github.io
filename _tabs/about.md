@@ -10,50 +10,50 @@ I am a third year cybersecurity student and industry professional with an avid d
 
 ## Skills List
 
-<ul class="skill-list>
-  <li class"skill-list-item>
+<ul class="skill-list">
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Python-red?style=for-the-badge&logoColor=white&logo=python">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-C++-orange?style=for-the-badge&logoColor=white&logo=C++">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logoColor=white">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-green?style=for-the-badge&logoColor=white">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-ClickHouse-blue?style=for-the-badge&logoColor=white&logo=ClickHouse">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-darkblue?style=for-the-badge&logoColor=whitelogo=HTML5">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Linux-purple?style=for-the-badge&logoColor=white&logo=Linux">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Windows-black?style=for-the-badge&logoColor=white">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Data Analysis-red?style=for-the-badge&logoColor=white">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-DNS-orange?style=for-the-badge&logoColor=white&logo=Cloudflare">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Proxmox-yellow?style=for-the-badge&logoColor=white&logo=Proxmox">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Docker-green?style=for-the-badge&logoColor=white&logo=Docker">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-SFTP-blue?style=for-the-badge&logoColor=white">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Log Analysis-darkblue?style=for-the-badge&logoColor=white">
   </li>
-  <li class"skill-list-item>
+  <li class"skill-list-item">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Metasploit-purple?style=for-the-badge&logoColor=white">
   </li>
 </ul>
