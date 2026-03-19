@@ -11,6 +11,7 @@ order: 4
 - [ctf101](https://ctf101.org/)
 - [Open Security Training](https://ost2.fyi)
 - [Reverse Engineering](https://github.com/wtsxDev/reverse-engineering?tab=readme-ov-file#courses)
+- [Hack The Box Walkthroughs](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 
 ## Code learning
 - [HTTP Reference](https://developer.mozilla.org/en-US/docs/Web/HTTP)
